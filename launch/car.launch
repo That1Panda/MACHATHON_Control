@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+    <include file="$(find machathon)/launch/camera.launch" />
+    <include file="$(find machathon)/launch/control.launch" />
+</launch>
